@@ -1,6 +1,5 @@
-// app.js
 import React from 'react';
-import AppRoot from './components/AppRoot'; // we'll create this next
+import AppRoot from './components/AppRoot';
 
 React.render(
   <AppRoot />,
