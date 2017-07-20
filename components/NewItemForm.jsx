@@ -36,7 +36,7 @@ class NewItemForm extends React.Component {
     return <form onSubmit={ this.createItem.bind(this) }>
         <input type="text" ref="item_title"/>
         <button>Add new item</button>
-      </form>;
+      </form>
   }
 }
 
