@@ -8,7 +8,7 @@ For more info on Flux, visit the [official Flux website](https://facebook.github
 
 ##Getting started
 ```
-git clone https://github.com/tonyspiro/easy-flux-example
+git clone https://github.com/khanhnamle1994/react-flux-app
 cd easy-flux-example
 npm install
 gulp
